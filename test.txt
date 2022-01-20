@@ -1,0 +1,14 @@
+when blank file uploaded, 
+
+1. upload a csv file without header, throws error message
+2. upload a csv file with header, all column values blank throws error message
+3. when client type is blank, throws error message
+4. when email is invalid, throws error message
+5. when invitation sent is blank, throws error message
+6. when valid client type, email, send invitation column has values, First Name and Last Name is blank error message displayed
+7. when valid client type as Individual, email valid email, first name and last name entered values, Send invitation entered
+as Yes, Business and Children are blank, Default Business added.
+8. when valid client type as Coporation, email valid email, first name, last name, business, send invitation as yes 
+and children as "Corp1, corp2, corp3" - business 1 has been created with corp1, corp2 and corp3.
+
+
