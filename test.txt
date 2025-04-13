@@ -14,3 +14,8 @@ and children as "Corp1, corp2, corp3" - business 1 has been created with corp1, 
 
 changes made in the repository..
 what changes made in the repository means good changes
+
+
+get to know about difference in files...
+
+also added in new branches
