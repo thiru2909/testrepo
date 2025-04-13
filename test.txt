@@ -19,3 +19,5 @@ what changes made in the repository means good changes
 get to know about difference in files...
 
 also added in new branches
+
+test the reset commit
